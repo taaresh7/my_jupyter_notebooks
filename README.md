@@ -1,2 +1,2 @@
-# my_jupyter_notebooks
-python notesbooks of many things I have done so far including applying CLT 
+# My_jupyter_notebooks
+python notebooks of many things I have done so far including applying CLT 
